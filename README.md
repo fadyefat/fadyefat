@@ -22,7 +22,7 @@ I specialize in smart contract development, decentralized systems, and continuou
 ### 🔗 Blockchain
 - Solidity  
 - Ethereum  
-- Hardhat  
+- Foundary  
 - Ethers.js  
 - IPFS  
 - Alchemy  
@@ -34,9 +34,7 @@ I specialize in smart contract development, decentralized systems, and continuou
 - CSS3  
 - Vite  
 
-### ⚙️ Backend
-- Node.js  
-
+ 
 ### 📱 Mobile
 - Flutter  
 - Dart  
